@@ -1,0 +1,71 @@
+id,battery_id,building_type,number_of_floors,status,information,notes
+1,1,Commercial,12,Offline,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
+2,2,Corp,55,Offline,,
+3,3,Residential,28,Online,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
+Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.","Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem."
+4,4,Corp,49,Online,,
+5,5,Hybrid,15,Online,,
+6,6,Commercial,24,Offline,"Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
+7,7,Commercial,23,Offline,,
+8,8,Hybrid,95,Online,,
+9,9,Corp,16,Online,,
+10,10,Hybrid,42,Offline,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
+Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",Fusce consequat. Nulla nisl. Nunc nisl.
+11,11,Corp,27,Offline,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.","Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh."
+12,12,Commercial,68,Offline,,
+13,13,Residential,73,Offline,"Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
+14,14,Hybrid,42,Offline,"Phasellus in felis. Donec semper sapien a libero. Nam dui.
+Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
+15,15,Corp,10,Offline,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
+Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
+16,16,Corp,62,Online,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
+Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.","Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem."
+17,17,Residential,74,Online,,
+18,18,Commercial,73,Offline,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
+
+Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
+19,19,Corp,27,Offline,,
+20,20,Residential,26,Offline,In congue. Etiam justo. Etiam pretium iaculis justo.,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+21,21,Corp,68,Online,,
+22,22,Commercial,74,Offline,,
+23,23,Commercial,66,Offline,,
+24,24,Hybrid,77,Offline,"Sed ante. Vivamus tortor. Duis mattis egestas metus.
+
+Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",Sed ante. Vivamus tortor. Duis mattis egestas metus.
+25,25,Residential,71,Offline,,
+26,26,Corp,46,Online,Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.,In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
+27,27,Corp,14,Offline,Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
+28,28,Corp,17,Offline,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
+
+Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.","Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis."
+29,29,Hybrid,1,Offline,,
+30,30,Corp,66,Offline,,
+31,31,Commercial,36,Offline,,
+32,32,Residential,37,Offline,,
+33,33,Residential,8,Offline,,
+34,34,Residential,81,Online,,
+35,35,Hybrid,11,Online,"Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
+
+Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.","Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis."
+36,36,Residential,66,Online,,
+37,37,Hybrid,12,Offline,,
+38,38,Hybrid,93,Online,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
+39,39,Hybrid,55,Offline,"Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
+
+Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
+40,40,Commercial,82,Online,,
+41,41,Residential,91,Online,In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui."
+42,42,Residential,66,Offline,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
+
+Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",Sed ante. Vivamus tortor. Duis mattis egestas metus.
+43,43,Corp,34,Online,,
+44,44,Hybrid,38,Offline,"Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
+
+Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
+45,45,Commercial,58,Online,,
+46,46,Hybrid,22,Offline,,
+47,47,Residential,97,Offline,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.","Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum."
+48,48,Commercial,21,Offline,Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.,Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
+49,49,Hybrid,73,Offline,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.,"Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis."
+50,50,Residential,84,Online,,
+51,51,Corp,36,Online,,
