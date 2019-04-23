@@ -1,0 +1,52 @@
+id,column_id,serial_number,model_type,building_type,status,date_of_instal,date_of_inspect,inspect_certificate,information,notes
+1,1,7678,Standard,Commercial,Moving,2018-06-22 04:52:17,2018-10-09 09:17:10,9007,,In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
+2,2,3835,Standard,Corporate,Moving,2018-06-16 13:35:49,2018-07-08 17:54:02,7400,,
+3,3,9046,Premium,Residential,Offline,2018-10-28 01:32:36,2018-07-18 21:40:08,1565,"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
+4,4,8018,Premium,Residential,Offline,2018-07-19 04:02:48,2018-08-21 12:53:51,7633,,
+5,5,9838,Premium,Residential,Idle,2018-04-04 22:31:54,2018-04-01 20:39:28,53,,In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
+6,6,8199,Premium,Corporate,Idle,2018-06-08 15:16:50,2018-05-06 21:20:04,1084,Fusce consequat. Nulla nisl. Nunc nisl.,
+7,7,7878,Standard,Commercial,Moving,2019-02-20 00:47:38,2018-09-24 15:08:16,9609,,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius."
+8,8,7642,Premium,Commercial,Offline,2018-05-15 23:39:55,2019-03-01 02:00:08,4879,,In congue. Etiam justo. Etiam pretium iaculis justo.
+9,9,1678,Standard,Corporate,Moving,2018-06-18 09:47:39,2018-04-17 16:50:34,2323,Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.,In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
+10,10,6075,Excelium,Corporate,Idle,2018-07-03 18:00:30,2018-07-23 02:03:58,9348,,
+11,11,9327,Standard,Residential,Moving,2018-08-11 06:19:52,2018-08-16 06:13:51,6335,,
+12,12,9955,Excelium,Residential,Idle,2018-09-07 10:28:03,2018-11-20 19:01:40,5505,,
+13,13,3,Standard,Commercial,Offline,2018-04-30 06:26:01,2018-10-28 16:29:21,1928,,Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
+14,14,2938,Excelium,Residential,Offline,2018-04-24 15:55:28,2018-09-09 04:43:50,5230,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",
+15,15,374,Standard,Commercial,Moving,2018-09-05 04:14:40,2018-05-02 21:58:33,8991,,
+16,16,5915,Standard,Corporate,Idle,2018-06-30 22:00:50,2018-12-20 11:10:36,5406,,Phasellus in felis. Donec semper sapien a libero. Nam dui.
+17,17,530,Excelium,Commercial,Idle,2018-06-30 13:29:44,2018-04-28 03:30:18,8974,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.","In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus."
+18,18,8629,Premium,Residential,Offline,2018-11-15 04:00:29,2018-06-22 05:44:40,2177,,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat."
+19,19,4721,Excelium,Corporate,Idle,2018-08-20 21:14:01,2018-06-26 21:06:19,1387,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
+20,20,8770,Premium,Corporate,Offline,2018-03-14 03:01:23,2018-12-27 11:00:53,4098,,
+21,21,1066,Excelium,Commercial,Moving,2019-03-09 17:50:11,2018-07-26 07:26:51,8497,,
+22,22,5958,Excelium,Residential,Moving,2018-04-15 15:04:19,2019-02-01 15:31:36,6996,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.","Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus."
+23,23,8223,Excelium,Commercial,Idle,2018-04-15 19:18:38,2018-08-06 18:52:27,9291,,
+24,24,3040,Standard,Residential,Offline,2018-06-19 08:48:47,2019-01-16 11:03:53,7922,,Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
+25,25,2478,Excelium,Commercial,Offline,2018-05-30 01:05:36,2018-05-06 17:15:08,9361,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
+26,26,6457,Standard,Commercial,Moving,2019-02-24 17:26:14,2018-12-29 23:51:34,4513,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
+27,27,8594,Standard,Residential,Offline,2019-01-15 09:01:16,2018-07-02 16:17:16,8918,,Sed ante. Vivamus tortor. Duis mattis egestas metus.
+28,28,3895,Excelium,Residential,Offline,2018-05-16 20:31:25,2018-04-18 16:18:53,5779,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.,
+29,29,7299,Premium,Residential,Offline,2018-06-09 08:15:54,2019-01-06 05:23:40,8910,Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.,Sed ante. Vivamus tortor. Duis mattis egestas metus.
+30,30,1641,Standard,Residential,Idle,2018-09-12 22:24:33,2018-04-13 23:07:30,7419,,"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus."
+31,31,8527,Excelium,Corporate,Moving,2018-06-05 01:11:56,2018-03-22 13:10:18,3233,,
+32,32,4773,Premium,Commercial,Offline,2019-01-12 15:42:57,2018-05-28 16:02:58,2635,,"Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros."
+33,33,8771,Excelium,Residential,Idle,2018-11-18 00:08:14,2018-07-21 06:47:04,8865,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.,
+34,34,9263,Premium,Commercial,Idle,2019-02-12 01:07:55,2018-12-28 00:44:36,3800,,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+35,35,2678,Premium,Residential,Offline,2019-01-30 11:25:05,2018-09-17 10:37:41,1610,,"Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam."
+36,36,8109,Excelium,Commercial,Offline,2018-10-31 18:49:38,2018-07-25 18:09:48,8921,,"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh."
+37,37,9412,Excelium,Commercial,Offline,2018-09-16 22:24:12,2018-10-19 18:56:36,1434,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
+38,38,1674,Premium,Commercial,Offline,2019-01-23 16:17:53,2018-09-12 13:47:10,6014,Fusce consequat. Nulla nisl. Nunc nisl.,
+39,39,1584,Standard,Corporate,Offline,2018-04-07 19:38:13,2018-12-20 06:59:35,5770,Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.,
+40,40,9052,Excelium,Residential,Moving,2018-12-22 05:38:02,2018-04-04 11:02:31,9316,,
+41,41,9206,Standard,Residential,Moving,2018-11-12 03:28:47,2018-05-05 05:20:55,9440,,
+42,42,9748,Premium,Residential,Offline,2018-12-14 22:28:18,2018-04-27 12:06:42,1269,,
+43,43,1965,Standard,Corporate,Offline,2018-04-01 11:57:41,2018-08-09 20:38:00,1341,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
+44,44,7020,Standard,Commercial,Idle,2019-01-13 02:02:35,2018-12-23 02:09:38,2786,Phasellus in felis. Donec semper sapien a libero. Nam dui.,
+45,45,829,Standard,Corporate,Offline,2018-09-12 13:20:31,2018-08-07 10:28:21,2832,,
+46,46,1345,Standard,Corporate,Offline,2018-11-06 13:36:07,2018-06-01 23:22:35,7659,,
+47,47,1414,Premium,Residential,Moving,2018-04-14 23:27:22,2019-02-25 07:10:42,9156,,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
+48,48,6645,Excelium,Corporate,Offline,2018-10-28 01:04:58,2018-04-14 05:21:19,6545,,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
+49,49,6323,Premium,Commercial,Offline,2018-12-02 08:26:40,2018-09-28 10:38:54,3889,Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius."
+50,50,1417,Standard,Commercial,Offline,2018-04-25 13:48:21,2018-04-17 15:41:03,1335,,Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
+51,51,3628,Excelium,Commercial,Idle,2018-07-18 11:52:24,2018-11-07 03:08:37,7707,,"Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem."
