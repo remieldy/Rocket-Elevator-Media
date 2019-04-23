@@ -37,8 +37,9 @@ describe 'Streamer' do
             expect(streamer).to receive(:getWeather) {'<div>weather</div>'}
             streamer.getContent()
         end
-        
 
+        
+        
 
 
 
