@@ -39,6 +39,14 @@ def getWeather()
     return @response
     end
 
+    def getrestclient(
+      method: : Get.
+      url: '',
+      header: {}
+    )
+    return @response
+    end
+
 
 
 end
