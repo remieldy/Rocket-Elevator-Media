@@ -22,7 +22,36 @@ class Elevator < ApplicationRecord
 #     end
 end
 
+# ===========================================================
 
+
+body: "Greetings,There are currently 
+#{self.elevators.all.count}elevators deployed in the 
+#{self.buildings.allcount} of your 
+#{self.column.count} customers. Currently,
+#{self.elevators.status} elevators are not Running Status and are being serviced
+#{self.batteries.id} are deployd across
+#{self.adresses.city} cities. On another note you currently have
+#{self.quotes.count} quotes awaiting processing. You alson have
+#{self.leads.count}. What is the status of elevator
+#{self.elevators.id}
+===============================================================
+===============2ime test ===================================
+
+
+Greetings
+There are currently #{self.elevators.count} elevators deployed in the #{self.buildings.count} buildings of your #{self.customer.count} customers
+Currently, #{self.elevators.status} elevators are not in Running Status and are being serviced
+#{self.batteries.id} Battreries are deployed across #{self.adresses.city} cities
+On another note you currently have #{self.quote.count} quotes awaiting processing
+You also have #{self.leads.count} leads in your contact requests
+What is the status of Elevator #{self.elevators.id}?
+
+
+
+
+
+passed to INTERVENTION",
     
     def sms_elevator()
         require 'twilio-ruby'        

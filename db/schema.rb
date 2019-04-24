@@ -38,11 +38,11 @@ ActiveRecord::Schema.define(version: 2019_04_01_172357) do
     t.index ["user_id"], name: "index_batteries_on_user_id"
   end
 
-  create_table "building_details", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8", force: :cascade do |t|
+  create_table "buildingdetails", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8", force: :cascade do |t|
     t.bigint "building_id", null: false
     t.string "information"
     t.string "valeur"
-    t.index ["building_id"], name: "index_building_details_on_building_id"
+    t.index ["building_id"], name: "index_buildingdetails_on_building_id"
   end
 
   create_table "buildings", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8", force: :cascade do |t|
@@ -176,7 +176,7 @@ ActiveRecord::Schema.define(version: 2019_04_01_172357) do
 
   add_foreign_key "batteries", "buildings", on_update: :cascade, on_delete: :cascade
   add_foreign_key "batteries", "users", on_update: :cascade, on_delete: :cascade
-  add_foreign_key "building_details", "buildings", on_update: :cascade, on_delete: :cascade
+  add_foreign_key "buildingdetails", "buildings", on_update: :cascade, on_delete: :cascade
   add_foreign_key "buildings", "addresses", on_update: :cascade, on_delete: :cascade
   add_foreign_key "buildings", "customers", on_update: :cascade, on_delete: :cascade
   add_foreign_key "columns", "batteries", on_update: :cascade, on_delete: :cascade
