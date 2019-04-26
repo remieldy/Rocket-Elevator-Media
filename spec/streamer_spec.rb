@@ -38,6 +38,11 @@ describe 'Streamer' do
             streamer.getContent()
         end
 
+        it "should return false if key is invalid" do
+            fromcloud = streamer.getHtmlFromCloud('')
+            expect(fromcloud).to be_nil
+        end
+
         
         
 

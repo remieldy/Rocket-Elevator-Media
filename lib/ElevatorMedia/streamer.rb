@@ -23,7 +23,7 @@ class Streamer
 # method that returns specific html depending on the "type" asked in the getContent method, is weather 
 def getWeather()
   @response= RestClient::Request.execute(
-    method: :Get,
+    method: :get,
     url: 'http://api.openweathermap.org/data/2.5/forecast?id=524901&APPID=4f0a133d0a455077b361a5e599d95204',
     header: {}
   )
@@ -38,15 +38,5 @@ def getWeather()
     )
     return @response
     end
-
-    def getrestclient(
-      method: : Get.
-      url: '',
-      header: {}
-    )
-    return @response
-    end
-
-
 
 end
