@@ -1,3 +1,5 @@
+vu qu' ont a du abbandonner google pour alexa ont a 2 jours de retard
+
 video for alexa and TDD :  https://www.youtube.com/watch?v=IsGG4x0Q9gQ&feature=youtu.be
 video: https://www.youtube.com/watch?v=g4yALa73NHU
 
