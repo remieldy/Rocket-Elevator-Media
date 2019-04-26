@@ -2,7 +2,7 @@ video for alexa and TDD :  https://www.youtube.com/watch?v=IsGG4x0Q9gQ&feature=y
 video: https://www.youtube.com/watch?v=g4yALa73NHU
 
 
-i did with:
+i did with the command Rspec
 -  'chuck_norris'
 -   'weather'
 
