@@ -42,12 +42,7 @@ describe 'Streamer' do
             fromcloud = streamer.getHtmlFromCloud('')
             expect(fromcloud).to be_nil
         end
-
-        
-        
-
-
-
+    
 
 
     end
