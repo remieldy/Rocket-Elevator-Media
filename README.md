@@ -16,7 +16,8 @@ video for alexa and TDD :  https://www.youtube.com/watch?v=IsGG4x0Q9gQ&feature=y
 video: https://www.youtube.com/watch?v=g4yALa73NHU
 
 
-i did with
+API With
+
 -  'chuck_norris'
 -   'weather'
 just enter command rspec in the console
