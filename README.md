@@ -59,6 +59,3 @@ just enter command rspec in the console
 - now bought by TWILIO
 
 
-
-
-# Rocket-Elevator-Media
