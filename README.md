@@ -3,13 +3,13 @@
 
 | Users  | Emails  | Passwords |
 | :------------ |:---------------:| -----:|
-| Philippe Bouillon | philippe.bouillon@codeboxx.biz | 123456 |
-| Mathieu LeFrançois | mathieu.lefrançois@codeboxx.biz | 123456 |
-| Mathieu Houd | mathieu.houde@codeboxx.biz | 123456 |
-| Remi Gagnon | remi.gagnon@codeboxx.biz | 123456 |
-| Serge Savoie | serge.savoie@codeboxx.biz | 123456 |
-| Felix-Antoine | felix-antoine.paradis@codeboxx.biz | 123456 |
-| Nadya Fortier | nadya.fortier@codeboxx.biz | 123456 |
+| Philippe Bouillon | philippe.bouillon@codeboxx.biz | 12345 |
+| Mathieu LeFrançois | mathieu.lefrançois@codeboxx.biz | 12345 |
+| Mathieu Houd | mathieu.houde@codeboxx.biz | 12345 |
+| Remi Gagnon | remi.gagnon@codeboxx.biz | 12345 |
+| Serge Savoie | serge.savoie@codeboxx.biz | 12345 |
+| Felix-Antoine | felix-antoine.paradis@codeboxx.biz | 12345 |
+| Nadya Fortier | nadya.fortier@codeboxx.biz | 12345 |
 
 
 video for alexa and TDD :  https://www.youtube.com/watch?v=IsGG4x0Q9gQ&feature=youtu.be
