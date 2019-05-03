@@ -1,4 +1,4 @@
-
+![](http://rocketelevator.ca/assets/R2-3c6296bf2343b849b947f8ccfce0de61dd34ba7f9e2a23a53d0a743bc4604e3c.png)
 
 video for alexa and TDD :  https://www.youtube.com/watch?v=IsGG4x0Q9gQ&feature=youtu.be
 video: https://www.youtube.com/watch?v=g4yALa73NHU
